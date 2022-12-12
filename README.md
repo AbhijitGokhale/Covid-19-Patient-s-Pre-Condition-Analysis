@@ -74,8 +74,8 @@ Below are the hyperparameters considered for each model -
 
 The exploratory analysis and the model evaluation results led us to actionable insights in order to decide whether a patient needs to be given ICU or not considering the reasons that had caused fatality and the importance of Covid and other pre-conditions to get to that result. 
 
-• If any patient is hospitalized with a positive test result, he should be given ICU urgently if they have pneumonia or are infants. 
-• Large number of deaths are caused by COVID instead of other comorbidities. 
-• Patients in the age range of 0 to 10 and in the age range of 50 to 60 are more prone to Covid if they are suffering from medical preconditions such as pneumonia, immunosuppression, and other diseases. 
-• Mortality rate among patients who were hospitalized the day they started showing symptoms is higher, maybe due to higher severity of Covid than other pre-conditions based on the feature Importance. 
-• The longer patients are in the hospital the mortality rate is reducing. It is likely that the medical care given was working.
+* If any patient is hospitalized with a positive test result, he should be given ICU urgently if they have pneumonia or are infants. 
+* Large number of deaths are caused by COVID instead of other comorbidities. 
+* Patients in the age range of 0 to 10 and in the age range of 50 to 60 are more prone to Covid if they are suffering from medical preconditions such as pneumonia, immunosuppression, and other diseases. 
+* Mortality rate among patients who were hospitalized the day they started showing symptoms is higher, maybe due to higher severity of Covid than other pre-conditions based on the feature Importance. 
+* The longer patients are in the hospital the mortality rate is reducing. It is likely that the medical care given was working.
